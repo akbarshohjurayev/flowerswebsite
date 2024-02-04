@@ -1,0 +1,45 @@
+@media only screen and (max-width: 1850px) {
+  .showcase .img {
+    width: 100%;
+  }
+  .catalog {
+    position: relative;
+  }
+  .catalog .box1 {
+    width: 426px;
+    height: 290px;
+    padding-right: 30px;
+    box-sizing: border-box;
+    position: absolute;
+    z-index: 19;
+  }
+  .catalog .box1 p.title {
+    color: #FFF;
+    font-family: "Cormorant";
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .catalog .box1 p.info {
+    color: #FFF;
+    font-family: "Oswald";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.4px;
+    text-align: end;
+    margin-bottom: 25px;
+  }
+  .catalog .box2 {
+    width: 345px;
+    height: 281px;
+  }
+  .catalog .box3 {
+    width: 340px;
+    height: 310px;
+  }
+}/*# sourceMappingURL=responsive1.css.map */
